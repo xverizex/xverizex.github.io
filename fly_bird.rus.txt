@@ -1,1 +1,2 @@
 Будут получены данные об аккаунте, которые нужны для добавляния в таблицу рейтинга и открытия достижений.
+You will receive account information that you need to add to the ranking table and open achievements.
